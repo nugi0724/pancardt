@@ -1,1 +1,1 @@
-﻿web: gunicorn app:app --timeout 60
+web: gunicorn --bind 0.0.0.0:$PORT flaskapp:app
