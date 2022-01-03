@@ -1,15 +1,7 @@
 scikit-image[data] >= 0.18
-click==8.0.3
-colorama==0.4.4
 Flask==2.0.2
 gunicorn==20.0.4
-itsdangerous==2.0.1
-Jinja2==3.0.3
-MarkupSafe==2.0.1
-Werkzeug==2.0.2
 imutils==0.5.4
 opencv-python==4.4.0.46
-tensorflow==1.15.4
-tensorboard==1.15.0
 Keras==2.4.0
 Pillow==8.0.1
